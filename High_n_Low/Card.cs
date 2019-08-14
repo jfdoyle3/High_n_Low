@@ -29,7 +29,7 @@ namespace High_n_Low
 
         }
 
-        public string SuitStr()
+        public string SuitSym()
         {
 
             return this.Suits[this.Suit];
