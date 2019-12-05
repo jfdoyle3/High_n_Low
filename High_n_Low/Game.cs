@@ -6,9 +6,7 @@ namespace High_n_Low
 {
    public class Game
     {
- 
-
-        public Card DrawCard()
+         public Card DrawCard()
         {
             Card aCard = new Card();
            

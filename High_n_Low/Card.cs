@@ -8,10 +8,8 @@ namespace High_n_Low
     {
         public int Value;
         public int Suit;
-     // public int Face;
-     // private string[] Suits = { "Spades", "Hearts", "Diamonds", "Clubs" };
         private string[] Suits = { "S", "H", "D", "C" };
-     // private string[] Faces = { "J", "Q", "K", "A" };
+
 
         public Card()
         {
