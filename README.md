@@ -1,10 +1,10 @@
 # High_n_Low
-# Card Game
+## Card Game
 
-# Rules
+#### Rules
   Player is dealt a card and has to guess whether the next card is higher or lower than the dealt card.
   
-# Game State
+#### Game State
  Ready to play
  
  
